@@ -173,4 +173,5 @@ adb devices -l
 ```
  * robot -d ./logs ./tests/*.robot
  * robot -d ./logs -i TAG  ./tests
+ * robot -d ./logs  -v BOT:NOME_BOT -i TAG_AQUI  ./tests
 ```
