@@ -114,8 +114,8 @@ Obs.: isso irá iniciar o servidor
 Obs.: Esse comando realiza um diagnóstico no computador, para identificar se está preparado para criar sessões appium no android, caso não tenha erro, está OK
 ```
 Obs2.: Provavelmente, ao executar o comando appium-doctor --android, será apresentado erro, por isso, deve-se marcar as opções das duas imagens abaixo 
-[Android SDK](https://i.stack.imgur.com/TIPNE.png)
-[Android SDK 2](https://i.stack.imgur.com/a0mtv.png)
+* [Android SDK](https://i.stack.imgur.com/TIPNE.png)
+* [Android SDK 2](https://i.stack.imgur.com/a0mtv.png)
 
 ### Instalação do Appium desktop
 * [Appium desktop](https://appium.io/)
